@@ -40,15 +40,15 @@ CREATE TABLE IF NOT EXISTS `mahasiswa` (
 
 INSERT INTO `mahasiswa` (`nim`, `nama`, `prodi`) VALUES
 (120140085, 'Arum Rahma', 'IF'),
-(122140034, 'Ainun', 'GT'),
+(122140034, 'Ainun', 'TG'),
 (122130032, 'Melanie', 'EL'),
 (122130096, 'Febri Maharani', 'EL'),
-(122170045, 'Risa Ayu', 'TIP'),
+(122170045, 'Risa Ayu', 'GL'),
 (122170056, 'Deta Hata Maulana', 'ME'),
 (122120078, 'Nadilla Nurdiana', 'TG'),
 (122120098, 'Christian', 'TG'),
 (122150056, 'Ardhito Manulu', 'GL'),
-(122150045, 'Liony Amrila', 'SAP');
+(122150045, 'Liony Amrila', 'ME');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
