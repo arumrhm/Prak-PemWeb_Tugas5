@@ -39,16 +39,16 @@ CREATE TABLE IF NOT EXISTS `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`nim`, `nama`, `prodi`) VALUES
-(120140154, 'Ryan Ernanda', 'IF'),
-(122140001, 'Muhammad Fakhri Nur', 'IF'),
-(122130001, 'Adithya riefky alqodri', 'EL'),
-(122130026, 'Febri Maharani', 'EL'),
-(122170003, 'Leo Sinambela', 'ME'),
-(122170015, 'Deta Hata Maulana', 'ME'),
-(122120020, 'Rachell Patrisia Sianturi', 'TG'),
-(122120030, 'Marchela Ariatama', 'TG'),
-(122150001, 'Nadia Paransiska Situmorang', 'GL'),
-(122150025, 'Cornelius Halomoan Purba', 'GL');
+(120140085, 'Arum Rahma', 'IF'),
+(122140034, 'Ainun', 'GT'),
+(122130032, 'Melanie', 'EL'),
+(122130096, 'Febri Maharani', 'EL'),
+(122170045, 'Risa Ayu', 'TIP'),
+(122170056, 'Deta Hata Maulana', 'ME'),
+(122120078, 'Nadilla Nurdiana', 'TG'),
+(122120098, 'Christian', 'TG'),
+(122150056, 'Ardhito Manulu', 'GL'),
+(122150045, 'Liony Amrila', 'SAP');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
